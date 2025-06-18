@@ -1,3 +1,5 @@
+![C Programming Language Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png)
+
 # LearningGit-GitHub-
 This is my first step to learning about Git and GitHub properly.
 <br>
